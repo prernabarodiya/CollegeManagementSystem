@@ -40,7 +40,7 @@ public class StudentDetails extends JFrame implements ActionListener {
         } catch (Exception e) {
             e.printStackTrace();
         }
-
+//cool
         table = new JTable() {
             @Override
             public Component prepareRenderer(TableCellRenderer renderer, int row, int column) {
